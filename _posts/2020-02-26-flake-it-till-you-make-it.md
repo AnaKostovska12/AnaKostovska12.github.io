@@ -5,7 +5,7 @@ subtitle: currently first year***
 cover-img: /assets/img/download (1).png
 thumbnail-img: /assets/img/Screenshot_20250609_231040_Facebook.jpg
 share-img: /assets/img/path.jpg
-tags: [books, test]
+
 author:
 ---
 
