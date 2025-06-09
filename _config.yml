@@ -20,7 +20,7 @@ url: "https://AnaKostovska12.github.io"
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Contacts: "contacts"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,23 +50,23 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "kostovskaana360@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: Ana Kosto
+  github: AnaKostovska12
+  twitter: AnaKostovska
+  patreon: AnaKostovska
+  youtube: "@AnaKostovska"
+  whatsapp: 070378431
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ instagram: kostovskaa__a
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: +389 70 378 431
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -146,7 +146,7 @@ navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#868cd1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -260,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Skopje/NorthMacedonia"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
