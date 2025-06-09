@@ -2,7 +2,7 @@
 layout: post
 title: Education
 subtitle: currently first year***
-cover-img: /assets/img/download (1).png
+cover-img: /assets/img/blue.png
 thumbnail-img: /assets/img/Screenshot_20250609_231040_Facebook.jpg
 share-img: /assets/img/path.jpg
 
