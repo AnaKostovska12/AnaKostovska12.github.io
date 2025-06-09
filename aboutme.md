@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All contacts
+title: Contacts
 subtitle:
 ---
 
