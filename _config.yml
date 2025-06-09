@@ -20,8 +20,8 @@ url: "https://AnaKostovska12.github.io"
 ###############################################
 
 navbar-links:
-  Contacts: "aboutme"
-    Hobies: "hobies"
+  About Me: "aboutme"
+  Hobies: "hobies"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
