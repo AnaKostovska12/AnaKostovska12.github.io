@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: All contacts
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I will probably respond to any of these types of communications:
+-Email kostovskaana360@gmail.com
+-Instagram kostovskaa__a
+-LinkedIn AnaKostovska
+-Github AnaKostovska12
+- Phone Number 070 378 431
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My location
+I am currently based in [ Skopje, North Macedonia,](https://mk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5)but I am open to working abroad and **flexible ** when it comes to travel.
