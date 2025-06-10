@@ -21,11 +21,11 @@ url: "https://AnaKostovska12.github.io"
 
 navbar-links:
   About Me: "aboutme"
-  Hobies: "aboutme"
+  Hobies: "hobies"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "hobies"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo ---https://deanattali.com #
