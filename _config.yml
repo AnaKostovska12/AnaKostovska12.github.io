@@ -21,7 +21,7 @@ url: "https://AnaKostovska12.github.io"
 
 navbar-links:
   About Me: "aboutme"
-  Hobies: "hobies"
+  Hobies: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
