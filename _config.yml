@@ -22,13 +22,14 @@ url: "https://AnaKostovska12.github.io"
 navbar-links:
   About Me: "aboutme"
   Hobies: "hobies"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+
   Author's home: "https://deanattali.com"
 
 ################
-# --- Logo ---https://deanattali.com #
+# --- Logo ---https://deanattali.com
+ # Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"#
 ################
 
 # Image to show in the navigation bar - works best with a square image
